@@ -4,7 +4,6 @@
   "description": "GraphQL utilities",
   "module": "dist/index.js",
   "main": "compat/cjs/index.js",
-  "react-native": "src/index.js",
   "scripts": {
     "build:clean": "rm -rfv dist compat",
     "build:flow:copy-source": "flow-copy-source -v src",
